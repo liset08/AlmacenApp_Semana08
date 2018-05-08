@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AlmacenApp.iml" filepath="$PROJECT_DIR$/AlmacenApp.iml" />
+      <module fileurl="file://D:\liset_anmdroi\AlmacenApp_Semana08\AlmacenApp.iml" filepath="D:\liset_anmdroi\AlmacenApp_Semana08\AlmacenApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlmacenApp_Semana08.iml" filepath="$PROJECT_DIR$/AlmacenApp_Semana08.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\liset_anmdroi\AlmacenApp_Semana08\app\app.iml" filepath="D:\liset_anmdroi\AlmacenApp_Semana08\app\app.iml" />
     </modules>
   </component>
 </project>
